@@ -1,4 +1,4 @@
-**Author:** Akanksha Khamkar    **Roll Number:** 2253017
+**Author:** Akanksha Khamkar       **Roll Number:** 2253017
 
 ## List of Programs
 
@@ -22,5 +22,6 @@ You need a C compiler like **GCC** (install via MinGW on Windows or use Linux/ma
 
 ```bash
 gcc filename.c -o program
+
 
 
