@@ -3,8 +3,7 @@
 
 ## List of Programs
 
-1. **Bubble Sort**  
-   Sorts an array of integers using the bubble sort algorithm. 
+1. **Bubble Sort** - Sorts an array of integers using the bubble sort algorithm. 
 
 2. **factorial recursion**
    Calculates the factorial of a number using recursive function calls.
@@ -15,8 +14,7 @@
 4. **linear_search** 
  Performs a linear search for an element in an array.
 
-5. **Matrix Multiplication**  
- Multiplies two 2x2 matrices.
+5. **Matrix Multiplication** - Multiplies two 2x2 matrices.
 
 
 ## Instructions to Compile and Run
@@ -28,3 +26,4 @@ You need a C compiler like **GCC** (install via MinGW on Windows or use Linux/ma
 
 ```bash
 gcc filename.c -o program
+
