@@ -17,11 +17,10 @@
 
 You need a C compiler like **GCC** (install via MinGW on Windows or use Linux/macOS terminal).
 
-
 ## Compile a program:
-
 ```bash
 gcc filename.c -o program
+
 
 
 
